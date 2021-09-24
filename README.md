@@ -27,10 +27,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://app.netlify.com/sites/distracted-jennings-cb187c/overview
 
 ## My process
+Started with the background. Took me a while to understand what is needed from me. 
+Then I created a DIV and centered it. Made couple of more divs to seperate the texts.
+Styled it and then fiddled with margins and paddings.
 
 ### Built with
 
