@@ -27,7 +27,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: https://app.netlify.com/sites/distracted-jennings-cb187c/overview
+- Live Site URL: https://distracted-jennings-cb187c.netlify.app/
 
 ## My process
 Started with the background. Took me a while to understand what is needed from me. 
